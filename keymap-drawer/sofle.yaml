@@ -4,20 +4,20 @@ layers:
     LEFT SHIFT, Z, X, C, V, B, MUTE, '', N, M, ',', ., /, RSHFT, LEFT GUI, LALT, LCTRL, lower, SPACE, ENTER, raise, '-', '=', '?']
   lower:
   - ESC
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
-  - ^
-  - '&'
-  - '*'
-  - (
-  - )
-  - '='
   - F1
   - F2
   - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F8
+  - F9
+  - F10
+  - F1
+  - F2
+  - UP ARROW
   - F4
   - F5
   - F6
@@ -28,9 +28,9 @@ layers:
   - F11
   - F12
   - TAB
-  - '!'
-  - '@'
-  - '#'
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
   - $
   - '%'
   - ^
@@ -140,8 +140,8 @@ layers:
   - EP TOG
   - RGB HUD
   - RGB HUI
-  - RGB SAD
-  - RGB SAI
+  - RGB BRD
+  - RGB BRI
   - RGB EFF
   - ''
   - ''
