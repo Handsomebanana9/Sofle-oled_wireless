@@ -43,8 +43,8 @@ layers:
   - '='
   - '-'
   - KP PLUS
-  - '{'
-  - '}'
+  - N
+  - M
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
