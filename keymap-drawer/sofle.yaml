@@ -77,9 +77,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - INS
-  - PSCRN
-  - CMENU
+  - KP 7
+  - KP 8
+  - KP 9
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - PG UP
@@ -89,9 +89,9 @@ layers:
   - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LALT
-  - LCTRL
-  - LSHFT
+  - KP 4
+  - KP 5
+  - KP 6
   - {t: ▽, type: trans}
   - CLCK
   - PG DN
@@ -101,9 +101,9 @@ layers:
   - DEL
   - BSPC
   - {t: ▽, type: trans}
-  - UNDO
-  - CUT
-  - COPY
+  - KP 1
+  - KP 2
+  - KP 3
   - PASTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -114,7 +114,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 0
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
